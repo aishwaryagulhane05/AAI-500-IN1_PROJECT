@@ -43,3 +43,5 @@ To-Do List
 
 # Final Team Project – Week 2 
 To-Do List  
+
+Worked on finalizong project status document Assignment 4.2

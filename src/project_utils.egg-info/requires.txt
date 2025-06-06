@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+seaborn
+missingno
+category_encoders
+pyjanitor
+scipy
+feature-engine
+fuzzywuzzy
