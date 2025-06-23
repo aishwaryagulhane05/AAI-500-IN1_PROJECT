@@ -4,6 +4,9 @@
 * Acts as the source of truth to always go back to the untouched data.
 * Keeps workflow reproducible by preserving the initial dataset.
 
+Contents:
+- data/Raw/Country_to_Region_Mapping.csv - has country to region mapping data
+- data/Raw/Sales Transaction v.4a.csv
 ---
 
 ### `processed/`
@@ -17,6 +20,8 @@
   * Normalization/scaling
 * Separate from `raw/` to ensure raw data remains unchanged.
 
+Contents:
+- data/data_dictionary.md
 ---
 
 ## Data Dictionary for Sales Transaction Dataset

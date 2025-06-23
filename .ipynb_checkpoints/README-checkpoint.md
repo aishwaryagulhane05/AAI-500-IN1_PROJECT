@@ -50,7 +50,7 @@ ecommerce-sales-project/
   - `03_modeling.ipynb`
 - View visualizations in the `visuals/` folder.
 - Refer to the final report in `reports/` for conclusions and recommendations.
-Note: replace ~ with your home directory path before running files
+- Note: replace ~ with your home directory path before running files
 
 ## Team & Roles
 

@@ -25,9 +25,8 @@ To-Do List
 
 ### Aishwarya (Representative)
 - [DONE] Create a GitHub repository for the project  
-- [DONE] Add team members:  
-  - yogsang@gmail.com  
-  - megheshsaini@gmail.com
+- [DONE] Add team members to github Repo 
+
 - share step by step follow guide to work with github
 
 ### Everyone
@@ -43,17 +42,21 @@ To-Do List
 ---
 
 # Final Team Project – Week 2 
-
+June 08, 2025 
 - Worked on finalizong project status document Assignment 4.2
 - final Github Set up was completed
 - Discussion on Dataset Selection 
 
+✅ Next Steps: Work on Finalizing EDA Observations
 
 # Final Team Project – Week 3
-
+June 15, 2025 
 - Discussion of Data Cleansing and EDA
 
-# Final Team Project – Week 4 
+✅ Next Steps: Work on find suitable models to predict the future sales forecast
 
-- Discussion on Model Analysis and Conclusions
-- 
+# Final Team Project – Week 4 
+June 22, 2025 
+
+✅ Next Steps: Start Project Report and PPT preparation
+
