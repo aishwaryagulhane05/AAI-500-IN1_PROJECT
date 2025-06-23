@@ -44,7 +44,7 @@ ecommerce-sales-project/
 - Download the raw dataset from Kaggle and place it under `data/raw/`.
 - Run the notebook:
   - `01_data_cleaning.ipynb`
-- Download the processed dataset from Kaggle and place it under `data/processed/`.
+- refer `data/processed/` for processed dataset.
 - Run the notebooks sequentially:
   - `02_eda.ipynb`
   - `03_modeling.ipynb`
