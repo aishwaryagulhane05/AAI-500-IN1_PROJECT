@@ -50,25 +50,26 @@ ecommerce-sales-project/
   - `03_modeling.ipynb`
 - View visualizations in the `visuals/` folder.
 - Refer to the final report in `reports/` for conclusions and recommendations.
+Note: replace ~ with your home directory path before running files
 
-## 👥 Team & Roles
+## Team & Roles
 
 - Yogesh – Data Cleaning & Preparation  
 - Meghesh – Exploratory Data Analysis  
 - Aishwarya – Modeling & Reporting  
 
-## 📅 Timeline & Milestones
+## Timeline & Milestones
 
 - Weeks 2–4: Dataset exploration, team setup, and initial brainstorming  
 - Weeks 5–6: Data cleaning, EDA, model development, and collaborative coding  
 - Week 7: Final report writing and presentation recording  
 
-## 🧠 AI Usage
+## AI Usage
 
 Tools like ChatGPT and Copilot were used for code suggestions and documentation.  
 All AI-generated content was reviewed and adapted by the team to ensure understanding and correctness.
 
-## 📄 References
+## References
 
-- Dataset source: Kaggle - Ecommerce Consumer Behavior Analysis  
+- Dataset source: Kaggle - E-commerce Business Transaction (https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business)
 - Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
