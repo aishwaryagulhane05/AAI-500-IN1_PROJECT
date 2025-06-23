@@ -1,3 +1,4 @@
+#### This page Generated using AI Assistant
 # Final Team Project – Week 1 
 To-Do List  
 🗓️ Week 1 (May 19 – May 27, 2025)  
@@ -15,8 +16,8 @@ To-Do List
   → 📅 First Sync: Sunday, May 25, 2025  
   → 📲 Schedule recurring Zoom meetings
 
-- [DONE] Finalize Dataset  
-  → 🔗 [Ecommerce Consumer Behavior Dataset (Kaggle)](https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data/data)
+- [DONE] Finalized Dataset  
+  → 🔗 E-commerce Business Transaction (Kaggle): https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business
 
 ---
 
@@ -42,6 +43,17 @@ To-Do List
 ---
 
 # Final Team Project – Week 2 
-To-Do List  
 
-Worked on finalizong project status document Assignment 4.2
+- Worked on finalizong project status document Assignment 4.2
+- final Github Set up was completed
+- Discussion on Dataset Selection 
+
+
+# Final Team Project – Week 3
+
+- Discussion of Data Cleansing and EDA
+
+# Final Team Project – Week 4 
+
+- Discussion on Model Analysis and Conclusions
+- 

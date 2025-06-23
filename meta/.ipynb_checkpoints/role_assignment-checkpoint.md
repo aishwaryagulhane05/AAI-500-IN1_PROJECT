@@ -1,0 +1,3 @@
+- Yogesh – Data Cleaning & Preparation  
+- Meghesh – EDA part 1 
+- Aishwarya – EDA Part 2 ,Modeling & Reporting
